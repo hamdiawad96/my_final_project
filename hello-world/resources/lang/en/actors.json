@@ -1,0 +1,6 @@
+{
+    "firstName ": "The first name  is required to complete the process",
+    "lastName":"The last name  is required to complete the process",
+
+    "required": "The {field} is required to create a new account"
+}
